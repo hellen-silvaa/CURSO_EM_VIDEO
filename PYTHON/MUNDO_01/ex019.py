@@ -2,6 +2,7 @@
  alunos para apagar o quadro. Faça um programa que 
  ajude ele, lendo o nome deles e escrevendo o nome do
   escolhido."""
+  #choice escolhe um valor aleatório de uma lista
 from random import choice
 n1 = str(input('Digite o nome do primeiro aluno:'))
 n2 = str(input('Digite o nome do segundo aluno:'))
