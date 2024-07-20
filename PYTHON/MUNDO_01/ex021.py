@@ -2,4 +2,4 @@
 #playsound é uma função que reproduz um arquivo de áudio
 
 from playsound import playsound
-playsound ('ex021.mp3') 
+playsound('ex021.mp3')
